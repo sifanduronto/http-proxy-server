@@ -1,4 +1,4 @@
-# proxy-frontend
+# proxy-backend
 
 ## Project setup
 ```
